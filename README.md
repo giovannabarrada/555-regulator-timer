@@ -11,7 +11,7 @@ The goal is to revisit fundamental concepts of analog electronics and document t
 - Document design decisions and lessons learned
 
 ## Status
-🔧 In development
+- In development
 
 ## Tools
 - KiCad
